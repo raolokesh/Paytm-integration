@@ -1,7 +1,6 @@
 # Paytm-integration
 
-
-<p>Our Backend Server code for test Purpose `Paytm.js`</p>
+Our Backend Server code for test Purpose`Paytm.js`
 
 ```
 const https = require('https');
@@ -81,7 +80,7 @@ module.exports = paytm;
 
 ```
 
-<p> On Request Data Send or Post to url  </p>
+ On Request Data Send or Post to url 
 
 ```
 {
@@ -105,7 +104,7 @@ module.exports = paytm;
     
 ```
 
-<P>Response recieve </P>
+Response received 
 
 ```
 Response:  {
